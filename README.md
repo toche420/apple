@@ -4,7 +4,7 @@
    
   </head>
   <body>
-    <button onclick=https://toche420.github.io/apple/>
+    <button onclick=www.google.com>
  click here
     </button>
   </body>
