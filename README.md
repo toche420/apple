@@ -1,7 +1,7 @@
 # apple
 <html>
   <head>
-    <title>Title of the document</title>
+    
     <style>
       .button {
         background-color: #1c87c9;
