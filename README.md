@@ -4,7 +4,7 @@
     <title>Title of the document</title>
   </head>
   <body>
-    <button onclick=";">
+    <button onclick="https://toche420.github.io/apple/;">
       Click Here
     </button>
   </body>
@@ -15,7 +15,7 @@
   </head>
   <body>
     <form>
-      <input type="apple" onclick="" />
+      <input type="apple" onclick="https://toche420.github.io/apple/" />
     </form>
   </body>
 </html>
