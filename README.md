@@ -12,10 +12,4 @@
 <html>
   <head>
     
-  </head>
-  <body>
-    <form>
-      <input type="apple" onclick="https://toche420.github.io/apple/" />
-    </form>
-  </body>
-</html>
+
