@@ -1,17 +1,6 @@
 # apple
 <html>
   <head>
-   
-  </head>
-  <body>
-    <button onclick="www.google.com";>
- click here
-    </button>
-  </body>
-</html>
-
-<html>
-  <head>
     <title>Title of the document</title>
     <style>
       .button {
