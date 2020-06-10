@@ -1,7 +1,7 @@
 # apple
 <html>
   <head>
-    <title>Title of the document</title>
+   
   </head>
   <body>
     <button onclick="https://toche420.github.io/apple/;">
@@ -11,7 +11,7 @@
 </html>
 <html>
   <head>
-    <title>Title of the document</title>
+    
   </head>
   <body>
     <form>
